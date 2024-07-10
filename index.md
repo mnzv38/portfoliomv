@@ -16,6 +16,6 @@ Nous sommes très studieux en cours.
 ![Angry cat]({% link images/angrycat.gif %})
 
 
-.flip-2-hor-top-1 # Bonne formation à tous !
+<h1 class="flip-2-hor-top-1">Bonne formation à tous !</h1>
 
 <img src="https://th.bing.com/th/id/OIP.XUsOnkTpYAqyLurFGtS8_QAAAA?rs=1&pid=ImgDetMain"> 
