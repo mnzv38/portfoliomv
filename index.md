@@ -16,6 +16,6 @@ Nous sommes très studieux en cours.
 ![Angry cat]({% link images/angrycat.gif %})
 
 
-.flip # Bonne formation à tous !
+animate__heartBeat # Bonne formation à tous !
 
 <img src="https://th.bing.com/th/id/OIP.XUsOnkTpYAqyLurFGtS8_QAAAA?rs=1&pid=ImgDetMain"> 
