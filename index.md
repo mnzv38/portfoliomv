@@ -3,9 +3,7 @@ title: "Porfolio"
 order: 0
 in_menu: true
 ---
-.playwrite-pe-<
-
-## **Formation Découverte**>
+## **Formation Découverte**
 
 Nous sommes très studieux en cours.
 
