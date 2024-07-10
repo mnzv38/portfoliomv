@@ -6,7 +6,6 @@ in_menu: true
 # **Une personnalité**
 Geek mais pas trop.
 
-![Muffin rose]({% link images/sweetgeek.jpg %})
 
 ![Sweet geek]({% link images/bubupc.jpg %})
 
