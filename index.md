@@ -12,4 +12,4 @@ Geek mais pas trop.
 
 ![Angry cat]({% link images/angrycat.gif %})
 
-<img src="https://tenor.com/fr/view/bjlac-gif-26813437"> 
+<img src="https://th.bing.com/th/id/OIP.XUsOnkTpYAqyLurFGtS8_QAAAA?rs=1&pid=ImgDetMain"> 
